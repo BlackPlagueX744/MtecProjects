@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+.label-input {
+    display: block;
+    width: 240px;
+    padding: 20px;
+    margin: 30px auto 0 auto;
+    border: 1px solid black;
+    font-family: cursive;
+}
+.submit {
+    text-align: center;
+}
